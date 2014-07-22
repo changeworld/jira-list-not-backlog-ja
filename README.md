@@ -1,4 +1,4 @@
 jira-list-not-backlog-ja
 ========================
 
-http://www.infoq.com/articles/jira-list-not-backlogの記事の拙訳
+http://www.infoq.com/articles/jira-list-not-backlog の記事の拙訳
