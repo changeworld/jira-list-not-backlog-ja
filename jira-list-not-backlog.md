@@ -1,15 +1,20 @@
-## A JIRA List Is Not A Scrum Product Backlog
+## JIRAのリストはスクラムのプロダクトバックログではない
+
+[原文(投稿日：2014/07/22)へのリンク](http://www.infoq.com/articles/jira-list-not-backlog)
 
 To start, this article is not an indictment of the excellent JIRA tool; we mention it merely because this widely popular tool, as others of its ilk (Trac, Redmine, VersionOne, Rally, ...) supports creating *the list of all the stuff we wanted to write down*, and people new to Scrum incorrectly confuse a *list of stuff to do* with a real Scrum Product Backlog. Thus, when a group starts Scrum adoption and we ask, “Do you have a Product Backlog?”, invariably the answer is, “Oh yes, we have our JIRA/... list!”
 
-So, this article is about the *contents* of what should be in a Scrum Product Backlog, not the particular tool.
+まず初めに、この記事はJIRAが素晴らしいツールではないというものではない。この広く一般的に用いられているツールは、他のツール（Trac、Redmine、VersionOne、Rallyなど）と同様に*書き留めておきたいと思ったすべてのリスト*の作成を支援し、スクラムに取り組む新しい人々に*Todoリスト*である真のスクラムプロダクトバックログを誤らせ、混乱させることについて言及している。例えば、あるグループがスクラムの導入を開始した際に“プロダクトバックログがあるか？”と尋ねると、常にその答えは“えぇ、JIRA/...[^1]のリストがあるよ！"なのである。
+
+[^1]:訳者注 JIRA以外のTrac, Redmine, VersionOne, Rallyなどを…で示していると思われる。
+
+そのため、この記事では、特定のツールではなく、スクラムプロダクトバックログの*内容*について記述する。
 
 And as an example, we share a real-life story (part of a transition to Large-Scale Scrum -- LeSS) and technique of *distilling* an original JIRA list into a Scrum Product Backlog, from what was originally *508 JIRA items down to 23 Product Backlog items*. That was a 20:1 reduction. If your group undertakes a similar distillation process and does not observe a dramatic reduction in the number of items, there’s a chance the group misunderstands what should be in a Product Backlog.
 
-Related Vendor Content
+例として、実際の話(大規模スクラムへの移行の一部分 -- LeSS)やJIRAのリストからスクラムプロダクトバックログへと、*508のJIRAの項目だったものから、23のプロダクトバックログ項目に*抽出するテクニックについて共有する。つまり、1/20へ縮小である。あなたのグループが同様の抽出工程を行い、項目数が劇的に縮小されるのを目撃していないのであれば、あなたのグループはプロダクトバックログにあるべき項目を誤解している可能性がある。
 
-The Enterprise Architect's Dilemma Use These Seven Steps to Improve Release Velocity API Patterns for Cloud & Mobile Top 10 Java Performance Problems How Dev/Test Teams Can Increase Velocity, Reduce Defects
-What A Product Backlog Should Look Like
+## What A Product Backlog Should Look Like
 
 A Product Backlog is an ordered list of (mostly) customer-centric features, called items (or PBIs).
 
