@@ -1,32 +1,32 @@
-## JIRAのリストはスクラムのプロダクトバックログでははない
+## JIRAの一覧はスクラムのプロダクトバックログでははない
 
 [原文(投稿日：2014/07/22)へのリンク](http://www.infoq.com/articles/jira-list-not-backlog)
 
-まず初めに、この記事はJIRAが素晴らしいツールではないというものではない。この広く一般的に用いられているツールは、他のツール（Trac、Redmine、VersionOne、Rallyなど）と同様に*書き留めておきたいと思ったすべてのリスト*の作成を支援し、スクラムに取り組む新しい人々に*Todoリスト*である真のスクラムプロダクトバックログを誤らせ、混乱させることについて言及している。例えば、あるグループがスクラムの導入を開始した際に“プロダクトバックログがあるか？”と尋ねると、常にその答えは“えぇ、JIRA/...[^1]のリストがあるよ！"なのである。
+まず初めに、この記事はJIRAが素晴らしいツールではないというものではない。この広く一般的に用いられているツールは、他のツール（Trac、Redmine、VersionOne、Rallyなど）と同様に*書き留めておきたいと思ったすべての一覧*の作成を支援し、スクラムに取り組む新しい人々に*Todo一覧*である真のスクラムプロダクトバックログを誤らせ、混乱させることについて言及している。例えば、あるグループがスクラムの導入を開始した際に「プロダクトバックログがあるか？」と尋ねると、常にその答えは「えぇ、JIRA/...[^1]の一覧があるよ！」なのである。
 
 [^1]:訳者注 JIRA以外のTrac, Redmine, VersionOne, Rallyなどを…で示していると思われる。
 
 そのため、この記事では、特定のツールではなく、スクラムプロダクトバックログの*内容*について記述する。
 
-例として、実際の話(大規模スクラムへの移行の一部分 -- LeSS)やJIRAのリストからスクラムプロダクトバックログへと、*508のJIRAの項目だったものから、23のプロダクトバックログ項目に*抽出するテクニックについて共有する。つまり、1/20へ縮小である。あなたのグループが同様の抽出工程を行い、項目数が劇的に縮小されるのを目撃していないのであれば、あなたのグループはプロダクトバックログにあるべき項目を誤解している可能性がある。
+例として、実際の話(大規模スクラムへの移行の一部分 -- LeSS)やJIRAの一覧からスクラムプロダクトバックログへと、*508のJIRAの項目だったものから、23のプロダクトバックログ項目に*抽出するテクニックについて共有する。つまり、1/20へ縮小である。同様の抽出工程を行い、項目数が劇的に縮小されないのであれば、プロダクトバックログにあるべき項目を誤解している可能性がある。
 
 ## プロダクトバックログはどのように見えなければならないのか
 
-プロダクトバックログは顧客主導のフィーチャーの順序付きのリストで、アイテムまたはPBIsと呼ばれている。
+プロダクトバックログは顧客主導のフィーチャーの順序付きの一覧で、アイテムまたはPBIと呼ばれている。
 
-広く知れ渡っている誤解と反して、スクラムプロダクトバックログに“ストーリー”は含まれ*ない*。スクラムでの著名のアイディアの一つは、それが“ストーリー”のようなプラクティスに関して規範的では*ない*ことだ。*スクラムガイド*[Schwaber & Sutherland, July 2013 / Definition of Scrum]を引用する:
+広く知れ渡っている誤解と反して、スクラムプロダクトバックログに「ストーリー」は含まれ*ない*。スクラムでの著名のアイディアの一つは、それが「ストーリー」のようなプラクティスに関して規範的では*ない*ことだ。*スクラムガイド*[Schwaber & Sutherland, July 2013 / Definition of Scrum]を引用する：
 
-*スクラムは製品を構築するためのプロセスでもテクニックでもなく、むしろ、様々なプロセス、テクニックを利用できるフレームワークと言える。スクラムは改善できるように製品マネジメントと開発プラクティスの相対効果を明確にする。*
+*プロダクトを構築するプロセスや技法ではなく、さまざまなプロセスや技法を取り入れることのできるフレームワークである。これらのプロダクト管理や開発プラクティスの相対的な有効性を明確にし、改善を可能にするのである。*
 
-いずれにしても、アジャイル開発の*ストーリー*は、*対話（ストーリー=“カード、対話、確認”）による要件*の*振る舞い*であり、リストそれ*自体*ではない。
+いずれにしても、アジャイル開発の*ストーリー*は、*対話（ストーリー=「カード、対話、確認」）による要求*の*振る舞い*であり、一覧それ*自体*ではない。
 
-Therefore, in Scrum the approach to requirements and how they are expressed as PBIs can be any way that a group finds useful, and may of course evolve. Regardless of how PBIs are written, the bottom line is that it emphasizes the things of value to the users. Again to quote *The Scrum Guide*:
+それゆえ、スクラムにおける要求へのアプローチやどのようにグループに重要視され、発展していくPBIとしてそれらが表されるか。PBIの書き方にかかわらず、要点はそれがユーザーに対する価値を強調していることである。*スクラムガイド*を再び引用する：
 
-*The Product Backlog lists all features, functions, requirements, enhancements…*
+*プロダクトバックログは、フィーチャ・機能・要求・要望をすべて一覧にしている。*
 
-A well-refined Product Backlog will have enough “ready” (small, well-understood, ...) work near the top of the (ordered) list to keep the Team(s) fed for at least one Sprint, although when the cycle time to properly refine ready or actionable a PBI is relatively long, you may want to aim for *two* Sprints worth of “ready” PBIs. Lower-ordered PBIs are less refined and often more coarse-grained, reducing the lean wastes of work-in-process and over-processing.
+よく正確なプロダクトバックログは、チームが作業する上で少なくとも1スプリント分として十分「準備完了（Ready）」（小さく、よく理解されている等）のストーリーを並び順の上に並べられた一覧を維持する。PBIの「準備完了（Ready）」は*2*スプリント分を目指したいと思うかもしれないが、スプリント期間が比較的長い場合は、適切に準備完了（Ready）または実行可能なPBIを絞り込むこと。並び順が下のPBIは不正確で、多くの場合、より粒度の粗い、仕掛品ややり過ぎといった中身のないムダを削減する。
 
-Therefore, even for big products, in a good Product Backlog most PBIs (those beyond the small “ready” set near the top) will be vague and coarse-grained placeholders. This makes working with even a “large” Product Backlog relatively tractable.
+そのため、大きなプロダクトに対するプロダクトバックログの中で最も優れたPBI（並び順の上部に小さな「準備完了（Ready）」が記述されている）は漠然としていて、粒度の粗い仮置きになる。このため、「大きい」プロダクトバックログは比較的扱い易い。
 
 ## Initial Product Backlog Refinement Technique, Starting With a Big ‘JIRA’ List
 
