@@ -1,8 +1,6 @@
-## JIRAのリストはスクラムのプロダクトバックログではない
+## JIRAのリストはスクラムのプロダクトバックログでははない
 
 [原文(投稿日：2014/07/22)へのリンク](http://www.infoq.com/articles/jira-list-not-backlog)
-
-To start, this article is not an indictment of the excellent JIRA tool; we mention it merely because this widely popular tool, as others of its ilk (Trac, Redmine, VersionOne, Rally, ...) supports creating *the list of all the stuff we wanted to write down*, and people new to Scrum incorrectly confuse a *list of stuff to do* with a real Scrum Product Backlog. Thus, when a group starts Scrum adoption and we ask, “Do you have a Product Backlog?”, invariably the answer is, “Oh yes, we have our JIRA/... list!”
 
 まず初めに、この記事はJIRAが素晴らしいツールではないというものではない。この広く一般的に用いられているツールは、他のツール（Trac、Redmine、VersionOne、Rallyなど）と同様に*書き留めておきたいと思ったすべてのリスト*の作成を支援し、スクラムに取り組む新しい人々に*Todoリスト*である真のスクラムプロダクトバックログを誤らせ、混乱させることについて言及している。例えば、あるグループがスクラムの導入を開始した際に“プロダクトバックログがあるか？”と尋ねると、常にその答えは“えぇ、JIRA/...[^1]のリストがあるよ！"なのである。
 
@@ -10,19 +8,17 @@ To start, this article is not an indictment of the excellent JIRA tool; we menti
 
 そのため、この記事では、特定のツールではなく、スクラムプロダクトバックログの*内容*について記述する。
 
-And as an example, we share a real-life story (part of a transition to Large-Scale Scrum -- LeSS) and technique of *distilling* an original JIRA list into a Scrum Product Backlog, from what was originally *508 JIRA items down to 23 Product Backlog items*. That was a 20:1 reduction. If your group undertakes a similar distillation process and does not observe a dramatic reduction in the number of items, there’s a chance the group misunderstands what should be in a Product Backlog.
-
 例として、実際の話(大規模スクラムへの移行の一部分 -- LeSS)やJIRAのリストからスクラムプロダクトバックログへと、*508のJIRAの項目だったものから、23のプロダクトバックログ項目に*抽出するテクニックについて共有する。つまり、1/20へ縮小である。あなたのグループが同様の抽出工程を行い、項目数が劇的に縮小されるのを目撃していないのであれば、あなたのグループはプロダクトバックログにあるべき項目を誤解している可能性がある。
 
-## What A Product Backlog Should Look Like
+## プロダクトバックログはどのように見えなければならないのか
 
-A Product Backlog is an ordered list of (mostly) customer-centric features, called items (or PBIs).
+プロダクトバックログは顧客主導のフィーチャーの順序付きのリストで、アイテムまたはPBIsと呼ばれている。
 
-Contrary to widespread misunderstanding, a Scrum Product Backlog does *not* contain ‘stories.’ One of the signature ideas in Scrum is that it is *not* prescriptive about practices (such as ‘stories’). To quote *The Scrum Guide* [Schwaber & Sutherland, July 2013 / Definition of Scrum]:
+広く知れ渡っている誤解と反して、スクラムプロダクトバックログに“ストーリー”は含まれ*ない*。スクラムでの著名のアイディアの一つは、それが“ストーリー”のようなプラクティスに関して規範的では*ない*ことだ。*スクラムガイド*[Schwaber & Sutherland, July 2013 / Definition of Scrum]を引用する:
 
-*Scrum is not a process or a technique for building products; rather, it is a framework within which you can employ various processes and techniques. Scrum makes clear the relative efficacy of your product management and development practices so that you can improve.*
+*スクラムは製品を構築するためのプロセスでもテクニックでもなく、むしろ、様々なプロセス、テクニックを利用できるフレームワークと言える。スクラムは改善できるように製品マネジメントと開発プラクティスの相対効果を明確にする。*
 
-And in any event, *stories* in agile development are a *behavior* of *requirements by conversation* (story = “Card, Conversation, and Confirmation”), not a *thing* in a list per se.
+いずれにしても、アジャイル開発の*ストーリー*は、*対話（ストーリー=“カード、対話、確認”）による要件*の*振る舞い*であり、リストそれ*自体*ではない。
 
 Therefore, in Scrum the approach to requirements and how they are expressed as PBIs can be any way that a group finds useful, and may of course evolve. Regardless of how PBIs are written, the bottom line is that it emphasizes the things of value to the users. Again to quote *The Scrum Guide*:
 
