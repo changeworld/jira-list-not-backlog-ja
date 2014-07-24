@@ -1,4 +1,4 @@
-## JIRAの一覧はスクラムのプロダクトバックログでははない
+## JIRAの一覧はスクラムのプロダクトバックログではない
 
 [原文(投稿日：2014/07/22)へのリンク](http://www.infoq.com/articles/jira-list-not-backlog)
 
