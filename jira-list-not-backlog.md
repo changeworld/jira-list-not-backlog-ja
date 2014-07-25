@@ -37,7 +37,6 @@ To easily filter the 508 JIRA issues, we started by printing them out on paper, 
 We happened to have four people available, only one of which was familiar with the product. To accelerate learning, we had our expert guide us. To sort the signal from the noise in our initial attempt at a product backlog, we applied a novel technique to quickly bucket the items so we could focus on the real PBIs. We use a technique similar to affinity clustering to sort the JIRA issues into PBI, bugs, tasks and various other buckets as required.
 
 1. The initial cycle consisted of having our expert select an issue, consider it out loud and place it in a bucket (category), thus demonstrating his reasoning to us as he did the work. After a handful of issues were considered and categorized, we had some initial buckets and a vague idea of the criteria and reasoning process the product expert was using.
-
 2. We set a timer for five minutes while we all worked in parallel. Initially we were careful to place our issues adjacent to the buckets, rather than in them. At the end of the timebox our product expert reviewed the issues tentatively queued for each bucket. Correct assignments were promoted into the bucket, and errors were debugged out loud so we could all learn about some criteria or misunderstanding that applied.
 3. We repeated these five minute cycles and observed that each cycle our throughput went up and our error rate went down. In the end we were able to sort the entire JIRA list in about two hours, leaving us with 23 genuine Product Backlog Items.
 
