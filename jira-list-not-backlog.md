@@ -28,7 +28,7 @@
 
 そのため、大きなプロダクトに対するプロダクトバックログの中で最も優れたPBI（並び順の上部に小さな「準備完了（Ready）」が記述されている）は漠然としていて、粒度の粗い仮置きになる。このため、「大きい」プロダクトバックログは比較的扱い易い。
 
-## Initial Product Backlog Refinement Technique, Starting With a Big ‘JIRA’ List
+## 巨大な「JIRA」一覧から始めるプロダクトバックログへの洗練された初期化技法
 
 To make things concrete, here is a real-life example of distilling a JIRA list into a Scrum Product Backlog.
 
