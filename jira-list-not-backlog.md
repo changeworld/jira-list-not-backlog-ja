@@ -30,15 +30,15 @@
 
 ## 巨大な「JIRA」一覧から始めるプロダクトバックログへの洗練された初期化技法
 
-To make things concrete, here is a real-life example of distilling a JIRA list into a Scrum Product Backlog.
+物事を具体的にするために、ここにJIRAの一覧をスクラムのプロダクトバックログに蒸留する実際の例がある。
 
-To easily filter the 508 JIRA issues, we started by printing them out on paper, four per page, and cutting them up. This quickly gives us physical objects we can manipulate as we group and filter to find the PBIs.
+簡単に508個のJIRAの課題をフィルタリングするために、4個毎に1枚の紙に印刷し、それを切り離した。これはすぐに操作できる物体のため、PBIを見つけるのにために不要なものを取り除くことができる。
 
-We happened to have four people available, only one of which was familiar with the product. To accelerate learning, we had our expert guide us. To sort the signal from the noise in our initial attempt at a product backlog, we applied a novel technique to quickly bucket the items so we could focus on the real PBIs. We use a technique similar to affinity clustering to sort the JIRA issues into PBI, bugs, tasks and various other buckets as required.
+対応できるものは四人しかおらず、その内、プロダクトに精通しているものは一人だけだった。学びを速めるために、専門家の指導を受けた。プロダクトバックログの最初の試みにおいて、信号をノイズと分類し、真のPBIに集中でき、素早くアイテムをバケツに入れるまったく新しい技法を適用した。JIRAの課題をPBIやバグ、タスク、必要に応じてその他のバケツに分類するためにAffinityクラスタリングに類似した技法を使用する。
 
-1. The initial cycle consisted of having our expert select an issue, consider it out loud and place it in a bucket (category), thus demonstrating his reasoning to us as he did the work. After a handful of issues were considered and categorized, we had some initial buckets and a vague idea of the criteria and reasoning process the product expert was using.
-2. We set a timer for five minutes while we all worked in parallel. Initially we were careful to place our issues adjacent to the buckets, rather than in them. At the end of the timebox our product expert reviewed the issues tentatively queued for each bucket. Correct assignments were promoted into the bucket, and errors were debugged out loud so we could all learn about some criteria or misunderstanding that applied.
-3. We repeated these five minute cycles and observed that each cycle our throughput went up and our error rate went down. In the end we were able to sort the entire JIRA list in about two hours, leaving us with 23 genuine Product Backlog Items.
+1. 最初のサイクルにおいて、専門家が課題を1つ選択する。そして、声に出してからそれを検討する。それから、バケツ（カテゴリー）の中にそれを置く。このように、作業をし、根拠を示す。一握りの課題が検討され、カテゴライズされた後には、私たちはいくつかの最初のバケツと受入基準の漠然とした考えとプロダクトの専門家の論理のプロセスを得ることができた。
+2. 全員が並行して作業する間、タイマーを5分に設定した。まず最初に、バケツの隣に課題を置く様に注意した。タイムボックスの終わりに、プロダクトの専門家は各バケツに仮置きされた課題をレビューした。正常な課題はバケツに進み、誤りは全員が受入基準や誤解を学べるように声に出して除去された。
+3. これを5分サイクルで繰り返し行い、スループットが向上した各サイクルを観測したところ、誤り率が下がった。結局は、2時間ほどですべてのJIRAの一覧を23個の真のプロダクトバックログに分類できた。
 
 ![画像](http://www.infoq.com/resource/articles/jira-list-not-backlog/en/resources/1fig1.jpg)
 
