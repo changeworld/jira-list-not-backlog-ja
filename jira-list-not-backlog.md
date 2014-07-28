@@ -46,9 +46,9 @@
 
 バケツとしてカテゴリーが明確になり、多くの課題が分類されると、いくつかの興味深いことに気付いた。例えば、チームがどれくらい課題を完了したのか、していないのか分からなくなっているというJIRAでの課題を明らかにした。
 
-Our all-time favorite discovery was a JIRA issue labeled, “create a JIRA issue”!
+不動の人気の発見は「JIRAの課題を発行しよう！」というJIRAのラベル付けされた課題だ。
 
-Let the issues guide your choice of buckets. In our case we had “requirements” (the real PBIs), “support requirements” (tangential issues, not actually PBIs), “tasks”, “fitnesse tasks”, “tech improvements”, “to be investigated”, “?” (complete nonsense), and “defects” (bugs).
+あなたの選択したバケツに課題を突っ込もう。このケースでは、「要求（真のPBI）」、「要求をサポートする（ほとんど関係ない課題、実際にはPBIではない）」、「タスク」、「適当なタスク」、「技術な改善点」、「要調査」、「？（完璧に無意味）」、「欠陥（バグ）」に分類した。
 
 In terms of distribution, we found that the vast majority of issues were defects (bugs). Individual tasks (presumably tasks for some Sprint) comprised the next largest bucket we found -- and Sprint tasks do not belong in a Product Backlog. Some issue were to investigate something, usually related to some apparent failure. Actual customer requirements and technical improvements were roughly the same count, with the remaining buckets even smaller.
 
