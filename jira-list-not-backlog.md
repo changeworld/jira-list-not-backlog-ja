@@ -52,7 +52,7 @@
 
 割り当ての結果、課題の大多数が欠陥（バグ）であることが分かった。個々のタスク（おそらくスプリントのためのタスク）は次の最大のバケツに含まれた。スプリントのためのタスクはプロダクトバックログに含まれない。いくつかの課題は何らかの調査で、たいてい見かけ上の失敗に関連していた。実際の顧客の要求や技術な改善点はだいたい同じ数で、残りのバケツはこれ以下だった。
 
-Imagine being a Product Owner and having to wade through 50 bugs or Sprint task issues before finding something that looks like a customer requirement. While all these issues are important to someone, separation of concerns is a valuable technique to keep the Product Backlog tractable and interesting to the Product Owner.
+プロダクトオーナーであることを想定し、顧客要求になりそうな何かを見つける前に、50個のバグやスプリントタスクの課題をなんとかやり遂げよう。すべてのこれらの課題が誰かにとって重要である間、関心の分離はプロダクトバックログを扱い易くし、プロダクトオーナーに興味を持たせる価値ある技法だ。
 
 As mentioned in the introduction, when the fog was fully cleared, the original list of 508 issues boiled down to 23 relevant Product Backlog items of customer-centric new requirements.
 
