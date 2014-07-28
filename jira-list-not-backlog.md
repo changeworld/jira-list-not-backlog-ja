@@ -56,7 +56,7 @@
 
 序論で述べたように、霧が完全に晴れた時、508個のJIRAの課題は23個の新しい要求に関連したプロダクトバックログアイテムに煮詰まった。
 
-We have done many of these list-filtering workshops when first moving to LeSS, and a reduction down to 5 or 10% of the original list size is not uncommon. That said, there is a high standard deviation; we have also worked on LeSS transitions where 90% of the original pre-Scrum list of items were true high-quality requirements and made their way without change into the new Product Backlog.
+縮小させる際、これらの一覧のフィルタリングワークショップを数多くこなした。最初の一覧の数から1/10または1/20に縮小されるのは稀なことではない。既に述べたように、これは標準偏差が高い。元々のプレスクラムの項目の一覧の90%が本当に高品質な要求で、新しいプロダクトバックログに変換なしに縮小移行ができたこともある。
 
 As an example of the wide deviation, during another session where the list (nominal Product Backlog) was taken from a spreadsheet, after applying this filtering technique, the “Normal Features” bucket was relatively high, north of 20%. But that’s still a lot of noise.
 
