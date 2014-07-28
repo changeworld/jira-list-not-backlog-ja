@@ -58,7 +58,7 @@
 
 縮小させる際、これらの一覧のフィルタリングワークショップを数多くこなした。最初の一覧の数から1/10または1/20に縮小されるのは稀なことではない。既に述べたように、これは標準偏差が高い。元々のプレスクラムの項目の一覧の90%が本当に高品質な要求で、新しいプロダクトバックログに変換なしに縮小移行ができたこともある。
 
-As an example of the wide deviation, during another session where the list (nominal Product Backlog) was taken from a spreadsheet, after applying this filtering technique, the “Normal Features” bucket was relatively high, north of 20%. But that’s still a lot of noise.
+幅広い偏差の例として、もう一つのセッションでは、スプレッドシートから一覧（名目上のプロダクトバックログ）を取得し、このフィルタリング技法を適用した後に「通常のフィーチャ」バケツの割合は比較的高く、20%程度だった。しかし、それでもまだ多くのノイズを含んでいる。
 
 ![画像](http://www.infoq.com/resource/articles/jira-list-not-backlog/en/resources/1fig2.jpg)
 
