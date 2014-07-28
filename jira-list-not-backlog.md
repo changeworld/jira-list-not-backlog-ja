@@ -42,7 +42,7 @@
 
 ![画像](http://www.infoq.com/resource/articles/jira-list-not-backlog/en/resources/1fig1.jpg)
 
-## 開発の霧を取り除く
+## 開発の霧を晴らす
 
 バケツとしてカテゴリーが明確になり、多くの課題が分類されると、いくつかの興味深いことに気付いた。例えば、チームがどれくらい課題を完了したのか、していないのか分からなくなっているというJIRAでの課題を明らかにした。
 
@@ -54,7 +54,7 @@
 
 プロダクトオーナーであることを想定し、顧客要求になりそうな何かを見つける前に、50個のバグやスプリントタスクの課題をなんとかやり遂げよう。すべてのこれらの課題が誰かにとって重要である間、関心の分離はプロダクトバックログを扱い易くし、プロダクトオーナーに興味を持たせる価値ある技法だ。
 
-As mentioned in the introduction, when the fog was fully cleared, the original list of 508 issues boiled down to 23 relevant Product Backlog items of customer-centric new requirements.
+序論で述べたように、霧が完全に晴れた時、508個のJIRAの課題は23個の新しい要求に関連したプロダクトバックログアイテムに煮詰まった。
 
 We have done many of these list-filtering workshops when first moving to LeSS, and a reduction down to 5 or 10% of the original list size is not uncommon. That said, there is a high standard deviation; we have also worked on LeSS transitions where 90% of the original pre-Scrum list of items were true high-quality requirements and made their way without change into the new Product Backlog.
 
