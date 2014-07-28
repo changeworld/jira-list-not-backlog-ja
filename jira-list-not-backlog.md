@@ -50,7 +50,7 @@
 
 あなたの選択したバケツに課題を突っ込もう。このケースでは、「要求（真のPBI）」、「要求をサポートする（ほとんど関係ない課題、実際にはPBIではない）」、「タスク」、「適当なタスク」、「技術な改善点」、「要調査」、「？（完璧に無意味）」、「欠陥（バグ）」に分類した。
 
-In terms of distribution, we found that the vast majority of issues were defects (bugs). Individual tasks (presumably tasks for some Sprint) comprised the next largest bucket we found -- and Sprint tasks do not belong in a Product Backlog. Some issue were to investigate something, usually related to some apparent failure. Actual customer requirements and technical improvements were roughly the same count, with the remaining buckets even smaller.
+割り当ての結果、課題の大多数が欠陥（バグ）であることが分かった。個々のタスク（おそらくスプリントのためのタスク）は次の最大のバケツに含まれた。スプリントのためのタスクはプロダクトバックログに含まれない。いくつかの課題は何らかの調査で、たいてい見かけ上の失敗に関連していた。実際の顧客の要求や技術な改善点はだいたい同じ数で、残りのバケツはこれ以下だった。
 
 Imagine being a Product Owner and having to wade through 50 bugs or Sprint task issues before finding something that looks like a customer requirement. While all these issues are important to someone, separation of concerns is a valuable technique to keep the Product Backlog tractable and interesting to the Product Owner.
 
