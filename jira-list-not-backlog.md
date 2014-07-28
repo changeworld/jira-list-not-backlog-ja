@@ -42,9 +42,9 @@
 
 ![画像](http://www.infoq.com/resource/articles/jira-list-not-backlog/en/resources/1fig1.jpg)
 
-## Clearing the Fog of Development
+## 開発の霧を取り除く
 
-As the bucket categories emerged and classified more issues, we noticed several interesting things. For instance, we uncovered issues in JIRA that the Team had lost track of, that should have been closed, or were otherwise orphaned.
+バケツとしてカテゴリーが明確になり、多くの課題が分類されると、いくつかの興味深いことに気付いた。例えば、チームがどれくらい課題を完了したのか、していないのか分からなくなっているというJIRAでの課題を明らかにした。
 
 Our all-time favorite discovery was a JIRA issue labeled, “create a JIRA issue”!
 
