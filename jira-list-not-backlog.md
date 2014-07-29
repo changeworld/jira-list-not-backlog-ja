@@ -82,7 +82,7 @@
 
 *なぜ我々が技術的なものすべてに関わらなければならないのだ？欠陥やエンジニアリングタスクなどのプロジェクトマネジメントに興味はない。我々が必要とするビジネスフィーチャに集中したいのだ。*
 
-この懸念は4つの欠陥とエンジニアリングタスクをマネジメントが存在しない大規模を縮小する際に悪化する。しかし、304個もあるのだ！ビジネスサイドの新しいプロダクトオーナーになる可能性なある人にすべての「ノイズ」をさらすのは彼らを非常に不快にさせることだ。
+この懸念は4つの欠陥とエンジニアリングタスクのマネジメントが存在しない大規模を縮小する際に悪化する。しかし、304個もあるのだ！ビジネスサイドの新しいプロダクトオーナーになる可能性なある人にすべての「ノイズ」をさらすのは彼らを非常に不快にさせることだ。
 
 So we like to separate the signal from noise, and introduce them to an attractive clean Product Backlog that contains things they really care about (the new features) without all the unattractive myriad technical issues they are concerned they will be sucked into having to manage, as a traditional project manager would.
 
