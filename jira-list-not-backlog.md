@@ -62,11 +62,11 @@
 
 ![画像](http://www.infoq.com/resource/articles/jira-list-not-backlog/en/resources/1fig2.jpg)
 
-## In Scrum, Where to Record Product Defects?
+## スクラムにおいて、プロダクトの欠陥はどこに記録するのか？
 
-A common question in Scrum is, “Where to record defects?” In small-scale one-team Scrum with only a few defects, recording them in the Product Backlog is a simple and sensible solution, and classic Scrum advice. But when first transitioning to LeSS, in a large product with many teams and years of pre-Scrum legacy defects building up in the JIRA list, recording them in the Product Backlog is not tenable; there are just too many.
+スクラムにおける共通の質問は「どこに欠陥を記録するのか？」だ。いくつかの欠陥を抱えた小規模の一チームのスクラムにおいて、プロダクトバックログに欠陥を記録するのはシンプルで、賢明な解決策だと古典的なスクラムでは勧めている。しかし、最初に縮小する際、大きなプロダクトの複数チームによるスクラム以前にJIRAの一覧をレガシーな欠陥を長年積み重ねていると、プロダクトバックログに欠陥を記録するのに耐えられない。あまりにも多過ぎるのだ。
 
-In the case study we are describing, we discovered more than half of the total of 508 issues were defects. So as is common in such cases, our alternate solution was to keep the record of defects in JIRA.
+この事例において、508個の課題の半分以上が欠陥であることが分かった。このようなことは一般的である。そのため、継続して、欠陥をJIRAに記録することにした。
 
 ## And Where to Record Technical Improvements or Engineering Tasks?
 
