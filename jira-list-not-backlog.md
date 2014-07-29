@@ -76,13 +76,13 @@
 
 そのための解決策は技術的な改善点とエンジニアリングタスクの非常に大きな一覧はJIRAに記録することだった。
 
-## A Happier Business-Side Product Owner
+## より幸せなビジネスサイドのプロダクトオーナー
 
-As you know, one of the major changes in moving to Scrum is to engage a *business-side* Product Owner. What you may not know is that when Scrum is introduced to the business community or Product Management (from where a Product Owner will usually come), that community of people often privately (if not publicly) voice this concern:
+ご存知の通り、スクラムへ移ることの大きな変化の1つは*ビジネスサイド*のプロダクトオーナーが関わることだ。知らなくともよいことだが、スクラムが財界やプロダクトマネジメント（プロダクトオーナーが来る場所）に導入された際、財界人はしばしばオフレコ（公的ではない）でこの懸念を示した。
 
-*Why do we have to get involved in all that messy techy stuff? I’m not interested in doing project management of defects, engineering tasks, and so on. I just want to focus on the business features we need.*
+*なぜ我々が技術的なものすべてに関わらなければならないのだ？欠陥やエンジニアリングタスクなどのプロジェクトマネジメントに興味はない。我々が必要とするビジネスフィーチャに集中したいのだ。*
 
-And that concern is exacerbated in the large-scale case transitioning to LeSS, where there aren’t 4 existing defects and engineering tasks to manage, but 304! To expose a potential new business-side Product Owner to all this ‘noise’ is very off-putting for many of them.
+この懸念は4つの欠陥とエンジニアリングタスクをマネジメントが存在しない大規模を縮小する際に悪化する。しかし、304個もあるのだ！ビジネスサイドの新しいプロダクトオーナーになる可能性なある人にすべての「ノイズ」をさらすのは彼らを非常に不快にさせることだ。
 
 So we like to separate the signal from noise, and introduce them to an attractive clean Product Backlog that contains things they really care about (the new features) without all the unattractive myriad technical issues they are concerned they will be sucked into having to manage, as a traditional project manager would.
 
