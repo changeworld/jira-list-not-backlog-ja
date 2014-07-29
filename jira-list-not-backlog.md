@@ -48,9 +48,9 @@
 
 不動の人気の発見は「JIRAの課題を発行しよう！」というJIRAのラベル付けされた課題だ。
 
-あなたの選択したバケツに課題を突っ込もう。このケースでは、「要求（真のPBI）」、「要求をサポートする（ほとんど関係ない課題、実際にはPBIではない）」、「タスク」、「適当なタスク」、「技術な改善点」、「要調査」、「？（完璧に無意味）」、「欠陥（バグ）」に分類した。
+あなたの選択したバケツに課題を突っ込もう。このケースでは、「要求（真のPBI）」、「要求をサポートする（ほとんど関係ない課題、実際にはPBIではない）」、「タスク」、「適当なタスク」、「技術的な改善点」、「要調査」、「？（完璧に無意味）」、「欠陥（バグ）」に分類した。
 
-割り当ての結果、課題の大多数が欠陥（バグ）であることが分かった。個々のタスク（おそらくスプリントのためのタスク）は次の最大のバケツに含まれた。スプリントのためのタスクはプロダクトバックログに含まれない。いくつかの課題は何らかの調査で、たいてい見かけ上の失敗に関連していた。実際の顧客の要求や技術な改善点はだいたい同じ数で、残りのバケツはこれ以下だった。
+割り当ての結果、課題の大多数が欠陥（バグ）であることが分かった。個々のタスク（おそらくスプリントのためのタスク）は次の最大のバケツに含まれた。スプリントのためのタスクはプロダクトバックログに含まれない。いくつかの課題は何らかの調査で、たいてい見かけ上の失敗に関連していた。実際の顧客の要求や技術的な改善点はだいたい同じ数で、残りのバケツはこれ以下だった。
 
 プロダクトオーナーであることを想定し、顧客要求になりそうな何かを見つける前に、50個のバグやスプリントタスクの課題をなんとかやり遂げよう。すべてのこれらの課題が誰かにとって重要である間、関心の分離はプロダクトバックログを扱い易くし、プロダクトオーナーに興味を持たせる価値ある技法だ。
 
@@ -68,13 +68,13 @@
 
 この事例において、508個の課題の半分以上が欠陥であることが分かった。このようなことは一般的である。そのため、継続して、欠陥をJIRAに記録することにした。
 
-## And Where to Record Technical Improvements or Engineering Tasks?
+## 技術的な改善点やエンジニアリングタスクはどこに記録するのか？
 
-As with the defects issue, a common question in Scrum is, “Where to record technical improvements and/or engineering tasks?” In one-team Scrum on a small product with a few improvements, and a seasoned Product Owner, keeping them in the Product Backlog is a reasonable option.
+欠陥の課題と同様、スクラムにおける共通の質問は「どこに技術的な改善点やエンジニアリングタスクを記録するのか？」だ。いくつかの改善点を抱え、熟練したプロダクトオーナーのいる小規模の一チームのスクラムにおいて、プロダクトバックログに欠陥を記録するのは理にかなった選択肢だ。
 
-But context is king here: Once again, similar to the situation regarding defects, when (1) you are in a large-scale Scrum context and there are a ‘hundred’ miscellaneous improvements in the original ‘JIRA’ list that swamp the small set of customer requirements, and (2) there is a new Product Owner just joining from the business side who has no interest in getting drawn into “techy issues” and is only grudgingly getting involved in this new role, and is fearful of being expected to do traditional IT project manager problem solving, then you have to be sensitive to the situation in terms of making an attractive Product Backlog that speaks to the things that the novice business-side Product Owner cares about, and be careful to not “put them off” during this transition step.
+しかし、ここのコンテキストは重要だ。繰り返しになるが、欠陥に関しての状況と同様だ。(1) 大規模スクラムのコンテキストで改善点が多岐にわたり、元々の「JIRA」の一覧中で顧客要求を圧倒している。(2) 新しいプロダクトオーナーが「技術的課題」に興味がまったくないビジネスサイドで、いやいやこの新しい役割に関与させられている。そして、従来のITプロジェクトマネジャーのような問題解決をすることを恐れている。その場合、未熟なビジネスサイドのプロダクトオーナーが気にかける魅力的なプロダクトバックログの製作状況に関して敏感でなければならない。また、移行ステップが「延期しない」ように注意すること。
 
-So our solution was to keep the very large list of technical improvements and engineering tasks in JIRA.
+そのための解決策は技術的な改善点とエンジニアリングタスクの非常に大きな一覧はJIRAに記録することだった。
 
 ## A Happier Business-Side Product Owner
 
