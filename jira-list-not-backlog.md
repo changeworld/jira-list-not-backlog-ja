@@ -84,7 +84,7 @@
 
 この懸念は4つの欠陥とエンジニアリングタスクのマネジメントが存在しない大規模を縮小する際に悪化する。しかし、304個もあるのだ！ビジネスサイドの新しいプロダクトオーナーになる可能性なある人にすべての「ノイズ」をさらすのは彼らを非常に不快にさせることだ。
 
-So we like to separate the signal from noise, and introduce them to an attractive clean Product Backlog that contains things they really care about (the new features) without all the unattractive myriad technical issues they are concerned they will be sucked into having to manage, as a traditional project manager would.
+そのため、ノイズから信号を切り離し、彼らに興味を惹く手入れされたプロダクトバックログを伝えたいのだ。それには彼らが本当に気にかける物事（＝新しい機能）が含まれ、興味のない多数の技術的な課題が含まれない。従来のプロジェクトマネジメントするように、彼らはマネジメントに巻き込まれることを懸念しているのだ。
 
 Imagine the delight of a new business-side Product Owner to discover that instead of having to manage a list of 508 issues, they only need to focus on a list of 23 small and relevant-to-them items.
 
