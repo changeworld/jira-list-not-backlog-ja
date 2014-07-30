@@ -86,7 +86,7 @@
 
 そのため、ノイズから信号を切り離し、彼らに興味を惹く手入れされたプロダクトバックログを伝えたいのだ。それには彼らが本当に気にかける物事（＝新しい機能）が含まれ、興味のない多数の技術的な課題が含まれない。従来のプロジェクトマネジメントするように、彼らはマネジメントに巻き込まれることを懸念しているのだ。
 
-Imagine the delight of a new business-side Product Owner to discover that instead of having to manage a list of 508 issues, they only need to focus on a list of 23 small and relevant-to-them items.
+508個の課題の一覧を管理しなければならない代わりにビジネスサイドの新しいプロダクトオーナーの歓喜の様を想像してみよう。彼らは小さく、関連し合った23個の項目の一覧に集中するだけだ。
 
 The hanging issue of managing the hundreds or thousands of remaining defects and engineering tasks in a young LeSS adoption with a new business-side Product Owner is an important issue, but outside the scope of this article. Please watch for an upcoming article" on Handling Defects & Technical Improvements in Large-Scale Scrum (LeSS).
 
