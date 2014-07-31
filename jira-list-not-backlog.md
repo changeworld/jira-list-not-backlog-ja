@@ -98,4 +98,4 @@
 
 ![画像](http://www.infoq.com/resource/articles/jira-list-not-backlog/en/resources/fig3.jpg)
 
-要するにプロダクトバックログを綺麗にしておくこと。特にビジネスサイドの新しいプロダクトオーナーと共に大規模な移行を行う場合は。Keep items of customer value in the Product Backlog and keep it accessible.
+要するにプロダクトバックログを綺麗にしておくこと。特にビジネスサイドの新しいプロダクトオーナーと共に大規模な移行を行う場合は。常に顧客価値のある項目をプロダクトバックログに入れておくこと。そして、常にそれが利用し易いようにしておくこと。
