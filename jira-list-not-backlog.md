@@ -88,7 +88,7 @@
 
 508個の課題の一覧を管理しなければならない代わりにビジネスサイドの新しいプロダクトオーナーの歓喜の様を想像してみよう。彼らは小さく、関連し合った23個の項目の一覧に集中するだけだ。
 
-The hanging issue of managing the hundreds or thousands of remaining defects and engineering tasks in a young LeSS adoption with a new business-side Product Owner is an important issue, but outside the scope of this article. Please watch for an upcoming article" on Handling Defects & Technical Improvements in Large-Scale Scrum (LeSS).
+何千何百の取り扱う欠陥やエンジニアリングタスクのマネジメントが初期の縮小適用におけるビジネスサイドの新しいプロダクトオーナーの重要な課題であるがそれは本記事の対象外だ。大規模なスクラム（の縮小）における欠陥と技術的な改善点の取り扱いに関しては、公開予定の記事を参照すること。
 
 ## Simple Tools
 
