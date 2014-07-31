@@ -90,7 +90,7 @@
 
 何千何百の取り扱う欠陥やエンジニアリングタスクのマネジメントが初期の縮小適用におけるビジネスサイドの新しいプロダクトオーナーの重要な課題であるがそれは本記事の対象外だ。大規模なスクラム（の縮小）における欠陥と技術的な改善点の取り扱いに関しては、公開予定の記事を参照すること。
 
-## Simple Tools
+## シンプルなツール
 
 Staying on the theme of attracting a new and nervous business-side Product Owner… What tool do they already know and are comfortable with? Probably not JIRA/Trac/..., but almost certainly a spreadsheet! (These days, probably a Google Docs spreadsheet). And it is the classic recommended tool for a Scrum Product Backlog. Therefore, consider keeping your practices simple and your changes simple for the new Product Owner by using a spreadsheet. We have seen LeSS adoptions involving hundreds of people and multiple sites quite effectively use a simple spreadsheet for the new Product Backlog. And be suspicious of claims that anything more complicated than a spreadsheet and wiki is needed -- even in large-scale cases.
 
