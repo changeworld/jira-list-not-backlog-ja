@@ -92,7 +92,7 @@
 
 ## シンプルなツール
 
-神経質な新しいビジネスサイトのプロダクトオーナーの興味を惹くテーマであり続けること。どんなツールならば、彼らが既に知っていて、満足するだろうか？おそらくそれはJIRA/Trac/その他ではない。ほぼ間違いなく、スプレッドシートだ！（今日では、おそらくそれはGoogle Docsのスプレッドシートだろう）And it is the classic recommended tool for a Scrum Product Backlog. Therefore, consider keeping your practices simple and your changes simple for the new Product Owner by using a spreadsheet. We have seen LeSS adoptions involving hundreds of people and multiple sites quite effectively use a simple spreadsheet for the new Product Backlog. And be suspicious of claims that anything more complicated than a spreadsheet and wiki is needed -- even in large-scale cases.
+神経質な新しいビジネスサイトのプロダクトオーナーの興味を惹くテーマであり続けること。どんなツールならば、彼らが既に知っていて、満足するだろうか？おそらくそれはJIRA/Trac/その他ではない。ほぼ間違いなく、スプレッドシートだ！（今日では、おそらくそれはGoogle Docsのスプレッドシートだろう）それはプロダクトバックログのための推奨される標準的なツールだ。Therefore, consider keeping your practices simple and your changes simple for the new Product Owner by using a spreadsheet. We have seen LeSS adoptions involving hundreds of people and multiple sites quite effectively use a simple spreadsheet for the new Product Backlog. And be suspicious of claims that anything more complicated than a spreadsheet and wiki is needed -- even in large-scale cases.
 
 Even simpler!... We even have Product Owners that (literally) tape one card per PBI on a wall and manage their Product Backlog that way.
 
