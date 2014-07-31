@@ -96,4 +96,6 @@
 
 さらにシンプルに！We even have Product Owners that (literally) tape one card per PBI on a wall and manage their Product Backlog that way.
 
+![画像](http://www.infoq.com/resource/articles/jira-list-not-backlog/en/resources/fig3.jpg)
+
 The point is to keep the Product Backlog clean -- especially for the large-scale transition case with a new business-side Product Owner. Keep items of customer value in the Product Backlog and keep it accessible.
