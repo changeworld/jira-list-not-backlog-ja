@@ -94,6 +94,6 @@
 
 神経質な新しいビジネスサイトのプロダクトオーナーの興味を惹くテーマであり続けること。どんなツールならば、彼らが既に知っていて、満足するだろうか？おそらくそれはJIRA/Trac/その他ではない。ほぼ間違いなく、スプレッドシートだ！（今日では、おそらくそれはGoogle Docsのスプレッドシートだろう）それはプロダクトバックログのための推奨される標準的なツールだ。したがって、プラクティスをシンプルにし、スプレッドシートを使ってプロダクトオーナーのために変化をシンプルにすることを考慮すること。何百人もの人、複数サイトに縮小に関わらせたが、新しいプロダクトバックログのためにシンプルなスプレッドシートを使うのは非常に効果的だった。スプレッドシートやWikiより複雑な何かが必要である、という主張には疑念を示すこと。それが大規模だったとしても。
 
-Even simpler!... We even have Product Owners that (literally) tape one card per PBI on a wall and manage their Product Backlog that way.
+さらにシンプルに！We even have Product Owners that (literally) tape one card per PBI on a wall and manage their Product Backlog that way.
 
 The point is to keep the Product Backlog clean -- especially for the large-scale transition case with a new business-side Product Owner. Keep items of customer value in the Product Backlog and keep it accessible.
