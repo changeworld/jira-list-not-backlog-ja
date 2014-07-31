@@ -98,4 +98,4 @@
 
 ![画像](http://www.infoq.com/resource/articles/jira-list-not-backlog/en/resources/fig3.jpg)
 
-The point is to keep the Product Backlog clean -- especially for the large-scale transition case with a new business-side Product Owner. Keep items of customer value in the Product Backlog and keep it accessible.
+要するにプロダクトバックログを綺麗にしておくこと。特にビジネスサイドの新しいプロダクトオーナーと共に大規模な移行を行う場合は。Keep items of customer value in the Product Backlog and keep it accessible.
